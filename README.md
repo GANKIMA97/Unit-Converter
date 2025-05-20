@@ -1,5 +1,5 @@
 # Unit-Converter
-This project is a miles-to-kilometers unit converter built with HTML, CSS, and JavaScript. It allows users to quickly and accurately convert distances from miles to kilometers, demonstrating how JavaScript can be used to make websites interactive and user-friendly. The project was developed as part of my learning journey on Mimo to practice DOM manipulation and handling user input.
+This project is a miles-to-kilometers and kilometers-to-miles unit converter built with HTML, CSS, and JavaScript. It allows users to quickly and accurately convert distances from miles to kilometers, demonstrating how JavaScript can make websites interactive and user-friendly. The project was developed as part of my learning journey on Mimo to practice DOM manipulation and handling user input.
 # Features
 • Convert miles to kilometers instantly
 <br>
